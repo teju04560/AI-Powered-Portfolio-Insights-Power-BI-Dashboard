@@ -20,7 +20,7 @@ It features **dynamic KPIs, risk scoring, forecasting, and AI-driven smart narra
 ---
 
 ## 🖼️ Dashboard Preview
-> *(Add screenshots here: KPI cards, Donut charts, Line charts, Forecasting, Smart Narrative)*
+> https://github.com/teju04560/AI-Powered-Portfolio-Insights-Power-BI-Dashboard/blob/main/power_bi_AI_portfolio.png
 
 Examples to include:
 - **KPI Panel** (Net Worth, Total Investment, Gain/Loss %)
@@ -69,7 +69,8 @@ Software Development Engineer @ Bosch
 ## 📬 Contact & Portfolio
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejashwiniramegowda/)  
 - 📧 [Email](mailto:teju04560@gmail.com)  
-- 📄 [Resume](link-to-your-resume.pdf) *(replace with actual link)*  
+- 📄 [Resume](https://github.com/teju04560/AI-Powered-Portfolio-Insights-Power-BI-Dashboard/blob/main/Tejashwini_BusinessAnalyst_Resume.pdf<img width="912" height="46" alt="image" src="https://github.com/user-attachments/assets/31b02ac0-bbb8-4380-88bf-8d17ecfb967b" />
+   
 
 ---
 
